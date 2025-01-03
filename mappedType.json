@@ -1,4 +1,14 @@
 {
     "background":"background",
-    "boxShadow":"box-shadow"
+    "boxShadow":"box-shadow",
+    "borderRadius": "border-radius",
+    "boxSizing":"box-sizing",
+    "mixBlend":"mix-blend-mode",
+    "opacity":"opacity",
+    "width":"width",
+    "height":"height",
+    "left":"left",
+    "top":"top",
+    "right":"right",
+    "bottom":"bottom"
 }

@@ -54,134 +54,329 @@
 
 
 
-*/Detail*/
-background: rgba(36, 44, 59, 1);
-box-shadow: 0px 30px 100px rgba(82, 108, 143, 1);
+/* Detail */
+background:rgba(36, 44, 59, 1);
+box-shadow:0px 30px 100px rgba(82, 108, 143, 1);
+border-radius:50px;
+box-sizing: border-box;
+width:390px;
+height:844px;
+left:0px;
 
-*/Status Bar*/
-background: rgba(0, 0, 0, 0);
+/* Status Bar */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:375px;
+height:44px;
+left:8px;
 
-*/Battery*/
-background: rgba(0, 0, 0, 0);
+/* Battery */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:24.32803726196289px;
+height:11.333333015441895px;
+left:344.33331298828125px;
 
-*/Border*/
+/* Border */
+border-radius:2.6666667461395264px;
+box-sizing: border-box;
+mix-blend-mode: normal;
+opacity:0.3499999940395355;
+width:22px;
+height:11.333333015441895px;
 
-*/Cap*/
+/* Cap */
+mix-blend-mode: normal;
+opacity:0.4000000059604645;
+width:1.328037977218628px;
+height:4px;
 
-*/Capacity*/
+/* Capacity */
+border-radius:1.3333333730697632px;
+width:18px;
+height:7.333333492279053px;
 
-*/Wifi*/
+/* Wifi */
+width:15.33329963684082px;
+height:11px;
 
-*/Wifi-path*/
+/* Wifi-path */
+width:15.33329963684082px;
+height:4.758129596710205px;
 
-*/Wifi-path*/
+/* Wifi-path */
+width:9.988699913024902px;
+height:3.645390510559082px;
 
-*/Wifi-path*/
+/* Wifi-path */
+width:4.644748687744141px;
+height:3.3850016593933105px;
 
-*/Cellular Connection*/
+/* Cellular Connection */
+width:17px;
+height:10.666666984558105px;
 
-*/Cellular-Connection-path*/
+/* Cellular-Connection-path */
+width:3px;
+height:4px;
 
-*/Cellular-Connection-path*/
+/* Cellular-Connection-path */
+width:3px;
+height:6px;
 
-*/Cellular-Connection-path*/
+/* Cellular-Connection-path */
+width:3px;
+height:8.333333015441895px;
 
-*/Cellular-Connection-path*/
+/* Cellular-Connection-path */
+width:3px;
+height:10.666666984558105px;
 
-*/Time Style*/
-background: rgba(0, 0, 0, 0);
+/* Time Style */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:54px;
+height:21px;
+left:29px;
 
-*/Time*/
+/* Time */
+width:54px;
+height:18px;
+left:29px;
 
-*/BG*/
-background: rgba(0, 0, 0, 0);
+/* BG */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:413.5px;
+height:720.5px;
+left:8px;
 
-*/Rectangle 475*/
+/* Rectangle 475 */
+box-sizing: border-box;
+width:413.5px;
+height:720.5px;
+left:8px;
 
-*/Bottom Sheet*/
-background: rgba(0, 0, 0, 0);
+/* Bottom Sheet */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:390px;
+height:450px;
+left:0px;
 
-*/Rectangle 11*/
-box-shadow: 0px -20px 60px rgba(0, 0, 0, 0.25);
+/* Rectangle 11 */
+box-shadow:0px -20px 60px rgba(0, 0, 0, 0.25);
+border-radius:30px;
+box-sizing: border-box;
+width:390px;
+height:450px;
+left:0px;
 
-*/Categories*/
-background: rgba(0, 0, 0, 0);
+/* Categories */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:305px;
+height:43px;
+left:44px;
 
-*/Categories*/
-background: rgba(0, 0, 0, 0);
+/* Categories */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:305px;
+height:43px;
+left:44px;
 
-*/Frame 3659*/
-background: rgba(50, 59, 79, 1);
-box-shadow: 4px 4px 10px rgba(37, 43, 57, 1), -4px -4px 10px rgba(56, 68, 90, 1);
+/* Frame 3659 */
+background:rgba(50, 59, 79, 1);
+box-shadow:4px 4px 10px rgba(37, 43, 57, 1), -4px -4px 10px rgba(56, 68, 90, 1);
+border-radius:10px;
+box-sizing: border-box;
+width:133px;
+height:43px;
+left:44px;
 
-*/Description*/
+/* Description */
+width:93px;
+height:23px;
+left:64px;
 
-*/Frame 3660*/
-background: rgba(40, 48, 63, 1);
-box-shadow: 
-*/Specification*/
+/* Frame 3660 */
+background:rgba(40, 48, 63, 1);
+box-shadow:;
+border-radius:10px;
+box-sizing: border-box;
+width:142px;
+height:43px;
+left:207px;
 
-*/Buy Now*/
-background: rgba(0, 0, 0, 0);
+/* Specification */
+width:102px;
+height:23px;
+left:227px;
 
-*/Rectangle 12*/
-box-shadow: 0px -10px 40px rgba(28, 34, 46, 1);
+/* Buy Now */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:390px;
+height:104px;
+left:0px;
 
-*/Frame 3648*/
-background: rgba(0, 0, 0, 0);
+/* Rectangle 12 */
+box-shadow:0px -10px 40px rgba(28, 34, 46, 1);
+border-radius:50px;
+box-sizing: border-box;
+width:390px;
+height:104px;
+left:0px;
 
-*/$ 1,999.99*/
+/* Frame 3648 */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:320px;
+height:44px;
+left:35px;
 
-*/Buy Now Button*/
-background: rgba(0, 0, 0, 0);
+/* $ 1,999.99 */
+width:112px;
+height:36px;
+left:35px;
 
-*/Rectangle 13*/
-box-shadow: 0px 30px 60px rgba(26, 31, 44, 1), 
-*/Add to Cart*/
+/* Buy Now Button */
+background:rgba(0, 0, 0, 0);
+border-radius:10px;
+box-sizing: border-box;
+width:160px;
+height:44px;
+left:195px;
 
-*/Description*/
-background: rgba(0, 0, 0, 0);
+/* Rectangle 13 */
+box-shadow:0px 30px 60px rgba(26, 31, 44, 1), ;
+border-radius:10px;
+box-sizing: border-box;
+width:160px;
+height:44px;
+left:195px;
 
-*/PEUGEOT - LR01*/
+/* Add to Cart */
+width:84px;
+height:23px;
+left:233px;
 
-*/The LR01 uses the same design as the most iconic bikes from PEUGEOT Cycles' 130-year history and combines it with agile, dynamic performance that's perfectly suited to navigating today's cities. As well as a lugged steel frame and iconic PEUGEOT black-and-white chequer design, this city bike also features a 16-speed Shimano Claris drivetrain.*/
+/* Description */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:335px;
+height:218px;
+left:20px;
 
-*/Image*/
-background: rgba(0, 0, 0, 0);
+/* PEUGEOT - LR01 */
+width:128px;
+height:26px;
+left:20px;
 
-*/Dots*/
-background: rgba(0, 0, 0, 0);
+/* The LR01 uses the same design as the most iconic bikes from PEUGEOT Cycles' 130-year history and combines it with agile, dynamic performance that's perfectly suited to navigating today's cities. As well as a lugged steel frame and iconic PEUGEOT black-and-white chequer design, this city bike also features a 16-speed Shimano Claris drivetrain. */
+width:335px;
+height:184px;
+left:20px;
 
-*/Ellipse 213*/
+/* Image */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:287.7255859375px;
+height:222.0158233642578px;
+left:51px;
 
-*/Ellipse 214*/
+/* Dots */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:30.47609519958496px;
+height:5.378134727478027px;
+left:181px;
 
-*/Ellipse 215*/
+/* Ellipse 213 */
+box-sizing: border-box;
+width:5.378134727478027px;
+height:5.378134727478027px;
 
-*/Image*/
-background: rgba(0, 0, 0, 0);
+/* Ellipse 214 */
+box-sizing: border-box;
+width:5.378134727478027px;
+height:5.378134727478027px;
 
-*/robert-bye-tG36rvCeqng-unsplash-removebg-preview 5*/
+/* Ellipse 215 */
+box-sizing: border-box;
+width:5.378134727478027px;
+height:5.378134727478027px;
 
-*/Group 6*/
-background: rgba(0, 0, 0, 0);
+/* Image */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:287.7255859375px;
+height:208.40733337402344px;
+left:51px;
 
-*/Ellipse 9*/
-box-shadow: 
-*/Ellipse 10*/
-box-shadow: 
-*/Ellipse 11*/
-box-shadow: 
-*/Top Navigation*/
-background: rgba(0, 0, 0, 0);
+/* robert-bye-tG36rvCeqng-unsplash-removebg-preview 5 */
+box-sizing: border-box;
+width:284.72552490234375px;
+height:208.40733337402344px;
+left:54.00006103515625px;
 
-*/Frame 3650*/
-background: rgba(0, 0, 0, 0);
-box-shadow: 0px 20px 30px rgba(16, 20, 28, 1), 0px -20px 30px rgba(43, 52, 69, 0.5);
+/* Group 6 */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:282.35205078125px;
+height:10.756268501281738px;
+left:51px;
 
-*/chevron.left*/
-background: rgba(0, 0, 0, 0);
+/* Ellipse 9 */
+box-shadow:;
+box-sizing: border-box;
+width:98.59912872314453px;
+height:4.481778621673584px;
+left:51px;
 
-*/chevron.left*/
+/* Ellipse 10 */
+box-shadow:;
+box-sizing: border-box;
+width:102.18455505371094px;
+height:4.481778621673584px;
+left:231.16748046875px;
 
-*/PEUGEOT - LR01*/
+/* Ellipse 11 */
+box-shadow:;
+box-sizing: border-box;
+width:272.4921569824219px;
+height:9.859912872314453px;
+left:60.85992431640625px;
+
+/* Top Navigation */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:251px;
+height:44px;
+left:20px;
+
+/* Frame 3650 */
+background:rgba(0, 0, 0, 0);
+box-shadow:0px 20px 30px rgba(16, 20, 28, 1), 0px -20px 30px rgba(43, 52, 69, 0.5);
+border-radius:10px;
+box-sizing: border-box;
+width:44px;
+height:44px;
+left:20px;
+
+/* chevron.left */
+background:rgba(0, 0, 0, 0);
+box-sizing: border-box;
+width:28px;
+height:28px;
+
+/* chevron.left */
+box-sizing: border-box;
+width:8.9736328125px;
+height:15.591796875px;
+
+/* PEUGEOT - LR01 */
+width:151px;
+height:30px;
+left:120px;
