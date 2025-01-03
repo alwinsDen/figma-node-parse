@@ -1,0 +1,747 @@
+/* Detail */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #242C3B;
+box-shadow: 0px 30px 100px #526C8F;
+border-radius: 50px;
+
+
+/* Status Bar */
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 8px;
+top: 0px;
+
+
+
+/* Battery */
+
+position: absolute;
+width: 24.33px;
+height: 11.33px;
+left: 336.33px;
+top: 17.33px;
+
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 22px;
+height: 11.33px;
+right: 16.67px;
+top: 17.33px;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+border: 1px solid #FFFFFF;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+width: 1.33px;
+height: 4px;
+right: 14.34px;
+top: 21px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+width: 18px;
+height: 7.33px;
+right: 18.67px;
+top: 19.33px;
+
+background: #FFFFFF;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 43.67px;
+top: 17.33px;
+
+background: #FFFFFF;
+
+
+/* Wifi-path */
+
+position: absolute;
+width: 15.33px;
+height: 4.76px;
+right: 43.67px;
+top: 17.33px;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+width: 9.99px;
+height: 3.65px;
+right: 46.34px;
+top: 21.14px;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+width: 4.64px;
+height: 3.39px;
+right: 49.01px;
+top: 24.95px;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 64px;
+top: 17.67px;
+
+background: #FFFFFF;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+width: 3px;
+height: 4px;
+right: 78px;
+top: 24.33px;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+width: 3px;
+height: 6px;
+right: 73.33px;
+top: 22.33px;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+width: 3px;
+height: 8.33px;
+right: 68.67px;
+top: 20px;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+width: 3px;
+height: 10.67px;
+right: 64px;
+top: 17.67px;
+
+background: #000000;
+
+
+/* Time Style */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 7.33px;
+
+
+
+/* Time */
+
+position: absolute;
+width: 54px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 + 5.5px);
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.3px;
+
+color: #FFFFFF;
+
+
+
+/* BG */
+
+position: absolute;
+width: 413.5px;
+height: 720.5px;
+left: 8px;
+top: -80px;
+
+
+
+/* Rectangle 475 */
+
+position: absolute;
+width: 413.5px;
+height: 720.5px;
+left: 8px;
+top: -80px;
+
+background: linear-gradient(170.76deg, #37B6E9 6.44%, #4B4CED 99.29%);
+
+
+/* Bottom Sheet */
+
+position: absolute;
+width: 390px;
+height: 450px;
+left: 0px;
+top: 394px;
+
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 390px;
+height: 450px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(157.91deg, #353F54 0%, #222834 58.47%);
+box-shadow: 0px -20px 60px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Categories */
+
+position: absolute;
+width: 305px;
+height: 43px;
+left: 44px;
+top: 32px;
+
+
+
+/* Categories */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 305px;
+height: 43px;
+left: 44px;
+top: 32px;
+
+
+
+/* Frame 3659 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 133px;
+height: 43px;
+
+background: #323B4F;
+box-shadow: -4px -4px 10px #38445A, 4px 4px 10px #252B39;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Description */
+
+width: 93px;
+height: 23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.35px;
+
+background: linear-gradient(90.11deg, #3CA4EB 0.13%, #4286EE 99.94%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3660 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 142px;
+height: 43px;
+
+background: #28303F;
+box-shadow: inset -4px -4px 8px #364055, inset 4px 4px 8px #202633;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Specification */
+
+width: 102px;
+height: 23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.35px;
+
+color: rgba(255, 255, 255, 0.6);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Buy Now */
+
+position: absolute;
+width: 390px;
+height: 104px;
+left: 0px;
+top: 346px;
+
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 390px;
+height: 104px;
+left: 0px;
+top: 346px;
+
+background: #262E3D;
+box-shadow: 0px -10px 40px #1C222E;
+border-radius: 50px;
+
+
+/* Frame 3648 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 320px;
+height: 44px;
+left: 35px;
+top: 376px;
+
+
+
+/* $ 1,999.99 */
+
+width: 112px;
+height: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+letter-spacing: -0.3px;
+
+color: #3D9CEA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Buy Now Button */
+
+width: 160px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 160px;
+height: 44px;
+left: 160px;
+top: 0px;
+
+background: linear-gradient(152.72deg, #34C8E8 1.7%, #4E4AF2 114.52%);
+box-shadow: 0px 30px 60px #1A1F2C;
+border-radius: 10px;
+
+
+/* Add to Cart */
+
+position: absolute;
+width: 84px;
+height: 23px;
+left: 198px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.3px;
+
+color: #FFFFFF;
+
+
+
+/* Description */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 335px;
+height: 218px;
+left: 20px;
+top: 104px;
+
+
+
+/* PEUGEOT - LR01 */
+
+width: 128px;
+height: 26px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+letter-spacing: -0.3px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* The LR01 uses the same design as the most iconic bikes from PEUGEOT Cycles' 130-year history and combines it with agile, dynamic performance that's perfectly suited to navigating today's cities. As well as a lugged steel frame and iconic PEUGEOT black-and-white chequer design, this city bike also features a 16-speed Shimano Claris drivetrain. */
+
+width: 335px;
+height: 184px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+letter-spacing: -0.3px;
+
+color: rgba(255, 255, 255, 0.6);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Image */
+
+position: absolute;
+width: 287.73px;
+height: 222.02px;
+left: 51px;
+top: 131px;
+
+
+
+/* Dots */
+
+position: absolute;
+width: 30.48px;
+height: 5.38px;
+left: 181px;
+top: 347.64px;
+
+
+
+/* Ellipse 213 */
+
+position: absolute;
+left: 0%;
+right: 82.35%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Ellipse 214 */
+
+position: absolute;
+left: 41.18%;
+right: 41.18%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* Ellipse 215 */
+
+position: absolute;
+left: 82.35%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* Image */
+
+position: absolute;
+width: 287.73px;
+height: 208.41px;
+left: 51px;
+top: 131px;
+
+
+
+/* robert-bye-tG36rvCeqng-unsplash-removebg-preview 5 */
+
+position: absolute;
+width: 284.73px;
+height: 208.41px;
+left: 54px;
+top: 131px;
+
+background: url(robert-bye-tG36rvCeqng-unsplash-removebg-preview.png);
+
+
+/* Group 6 */
+
+position: absolute;
+width: 282.35px;
+height: 10.76px;
+left: 51px;
+top: 312.96px;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 98.6px;
+height: 4.48px;
+left: 51px;
+top: 319.23px;
+
+background: rgba(0, 0, 0, 0.2);
+filter: blur(4.48178px);
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 102.18px;
+height: 4.48px;
+left: 231.17px;
+top: 319.23px;
+
+background: rgba(0, 0, 0, 0.2);
+filter: blur(4.48178px);
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 272.49px;
+height: 9.86px;
+left: 60.86px;
+top: 312.96px;
+
+background: rgba(0, 0, 0, 0.1);
+filter: blur(4.48178px);
+
+
+/* Top Navigation */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 56px;
+
+position: absolute;
+width: 251px;
+height: 44px;
+left: 20px;
+top: 60px;
+
+
+
+/* Frame 3650 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 44px;
+height: 44px;
+
+background: linear-gradient(152.72deg, #34C8E8 1.7%, #4E4AF2 114.52%);
+box-shadow: 0px -20px 30px rgba(43, 52, 69, 0.5), 0px 20px 30px #10141C;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* chevron.left */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* chevron.left */
+
+position: absolute;
+left: 29.82%;
+right: 38.13%;
+top: 20.92%;
+bottom: 23.39%;
+
+background: #FFFFFF;
+
+
+/* PEUGEOT - LR01 */
+
+width: 151px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: -0.3px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;

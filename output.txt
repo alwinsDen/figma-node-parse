@@ -1,0 +1,187 @@
+-Detail
+	-Status Bar
+		-Battery
+			-Border
+			-Cap
+			-Capacity
+		-Wifi
+			-Wifi-path
+			-Wifi-path
+			-Wifi-path
+		-Cellular Connection
+			-Cellular-Connection-path
+			-Cellular-Connection-path
+			-Cellular-Connection-path
+			-Cellular-Connection-path
+		-Time Style
+			-Time
+	-BG
+		-Rectangle 475
+	-Bottom Sheet
+		-Rectangle 11
+		-Categories
+			-Categories
+				-Frame 3659
+					-Description
+				-Frame 3660
+					-Specification
+		-Buy Now
+			-Rectangle 12
+			-Frame 3648
+				-$ 1,999.99
+				-Buy Now Button
+					-Rectangle 13
+					-Add to Cart
+		-Description
+			-PEUGEOT - LR01
+			-The LR01 uses the same design as the most iconic bikes from PEUGEOT Cycles' 130-year history and combines it with agile, dynamic performance that's perfectly suited to navigating today's cities. As well as a lugged steel frame and iconic PEUGEOT black-and-white chequer design, this city bike also features a 16-speed Shimano Claris drivetrain.
+	-Image
+		-Dots
+			-Ellipse 213
+			-Ellipse 214
+			-Ellipse 215
+		-Image
+			-robert-bye-tG36rvCeqng-unsplash-removebg-preview 5
+			-Group 6
+				-Ellipse 9
+				-Ellipse 10
+				-Ellipse 11
+	-Top Navigation
+		-Frame 3650
+			-chevron.left
+				-chevron.left
+		-PEUGEOT - LR01
+
+
+
+*/Detail*/
+background: rgba(36, 44, 59, 1);
+box-shadow: 0px 30px 100px rgba(82, 108, 143, 1);
+
+*/Status Bar*/
+background: rgba(0, 0, 0, 0);
+
+*/Battery*/
+background: rgba(0, 0, 0, 0);
+
+*/Border*/
+
+*/Cap*/
+
+*/Capacity*/
+
+*/Wifi*/
+
+*/Wifi-path*/
+
+*/Wifi-path*/
+
+*/Wifi-path*/
+
+*/Cellular Connection*/
+
+*/Cellular-Connection-path*/
+
+*/Cellular-Connection-path*/
+
+*/Cellular-Connection-path*/
+
+*/Cellular-Connection-path*/
+
+*/Time Style*/
+background: rgba(0, 0, 0, 0);
+
+*/Time*/
+
+*/BG*/
+background: rgba(0, 0, 0, 0);
+
+*/Rectangle 475*/
+
+*/Bottom Sheet*/
+background: rgba(0, 0, 0, 0);
+
+*/Rectangle 11*/
+box-shadow: 0px -20px 60px rgba(0, 0, 0, 0.25);
+
+*/Categories*/
+background: rgba(0, 0, 0, 0);
+
+*/Categories*/
+background: rgba(0, 0, 0, 0);
+
+*/Frame 3659*/
+background: rgba(50, 59, 79, 1);
+box-shadow: 4px 4px 10px rgba(37, 43, 57, 1), -4px -4px 10px rgba(56, 68, 90, 1);
+
+*/Description*/
+
+*/Frame 3660*/
+background: rgba(40, 48, 63, 1);
+box-shadow: 
+*/Specification*/
+
+*/Buy Now*/
+background: rgba(0, 0, 0, 0);
+
+*/Rectangle 12*/
+box-shadow: 0px -10px 40px rgba(28, 34, 46, 1);
+
+*/Frame 3648*/
+background: rgba(0, 0, 0, 0);
+
+*/$ 1,999.99*/
+
+*/Buy Now Button*/
+background: rgba(0, 0, 0, 0);
+
+*/Rectangle 13*/
+box-shadow: 0px 30px 60px rgba(26, 31, 44, 1), 
+*/Add to Cart*/
+
+*/Description*/
+background: rgba(0, 0, 0, 0);
+
+*/PEUGEOT - LR01*/
+
+*/The LR01 uses the same design as the most iconic bikes from PEUGEOT Cycles' 130-year history and combines it with agile, dynamic performance that's perfectly suited to navigating today's cities. As well as a lugged steel frame and iconic PEUGEOT black-and-white chequer design, this city bike also features a 16-speed Shimano Claris drivetrain.*/
+
+*/Image*/
+background: rgba(0, 0, 0, 0);
+
+*/Dots*/
+background: rgba(0, 0, 0, 0);
+
+*/Ellipse 213*/
+
+*/Ellipse 214*/
+
+*/Ellipse 215*/
+
+*/Image*/
+background: rgba(0, 0, 0, 0);
+
+*/robert-bye-tG36rvCeqng-unsplash-removebg-preview 5*/
+
+*/Group 6*/
+background: rgba(0, 0, 0, 0);
+
+*/Ellipse 9*/
+box-shadow: 
+*/Ellipse 10*/
+box-shadow: 
+*/Ellipse 11*/
+box-shadow: 
+*/Top Navigation*/
+background: rgba(0, 0, 0, 0);
+
+*/Frame 3650*/
+background: rgba(0, 0, 0, 0);
+box-shadow: 0px 20px 30px rgba(16, 20, 28, 1), 0px -20px 30px rgba(43, 52, 69, 0.5);
+
+*/chevron.left*/
+background: rgba(0, 0, 0, 0);
+
+*/chevron.left*/
+
+*/PEUGEOT - LR01*/
